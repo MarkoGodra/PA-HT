@@ -107,7 +107,7 @@ class HashMap :
             
 #Main
 
-hashMap = HashMap(10,1)
+hashMap = HashMap(11,2)
 
 list = random_list(0, 20, 10)
 
